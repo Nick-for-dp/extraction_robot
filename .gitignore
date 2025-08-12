@@ -1,0 +1,7 @@
+*.env
+
+# IDEA
+*.pyc
+
+# venv
+.venv/
